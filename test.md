@@ -1,16 +1,4 @@
-PDF: **Greeting Message:**
 
-Hello and welcome to the Nepal Open University Mid-term Examination PDF for the Bachelor of Business Science (BBS) program! This document outlines the examination details for the subject MGMGT 302 Principles of Management, including the structure of the exam, which consists of three groups of questions. You have the opportunity to showcase your understanding of key management concepts, theories, and practices. Best of luck as you prepare to demonstrate your knowledge and skills!
-
-**Example Questions:**
-
-1. What are the key features of organizations as mentioned in the exam?
-2. Can you explain the importance of the human relation theory in management?
-3. What steps are involved in strategic planning according to the PDF?
-
-Me: solve the questions of group b
-
-PDF: Here are the solutions to the questions from Group B of the Mid-term Examination (MGMGT 302 Principles of Management):
 
 ### 9. Summarize the human relation theory with reference to Hawthorn study of Elton Mayo. Discuss its major contributions.
 
