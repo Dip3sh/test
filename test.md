@@ -70,3 +70,78 @@ A Trial Balance is a statement that lists all the balances of the general ledger
 - **Total Creditors (Saru Brothers)**: Rs. **20,700**
 
 ---
+
+## Journal Entries
+
+| Date         | Particulars                                   | Debit (Rs.) | Credit (Rs.) |
+|--------------|-----------------------------------------------|--------------|---------------|
+| 2080 Ashad 1 | Cash                                          | 10,000       |               |
+|              | Capital Account                              |              | 10,000        |
+| 2080 Ashad 4 | Rent Expense                                 | 2,000        |               |
+|              | Cash                                         |              | 2,000         |
+| 2080 Ashad 5 | Equipment                                    | 1,200        |               |
+|              | Cash                                         |              | 1,200         |
+| 2080 Ashad 7 | Purchases                                   | 17,000       |               |
+|              | Accounts Payable (Sunita)                   |              | 17,000        |
+| 2080 Ashad 10| Cash                                         | 8,600        |               |
+|              | Sales                                        |              | 8,600         |
+| 2080 Ashad 14| Advertisement Expense                        | 1,400        |               |
+|              | Cash                                         |              | 1,400         |
+| 2080 Ashad 17| Cash                                         | 11,200       |               |
+|              | Sales                                        |              | 11,200        |
+| 2080 Ashad 23| Accounts Receivable (Heera)                 | 13,100       |               |
+|              | Sales                                        |              | 13,100        |
+| 2080 Ashad 25| Wages Expense                                | 1,500        |               |
+|              | Cash                                         |              | 1,500         |
+| 2080 Ashad 28| Electricity Expense                          | 240          |               |
+|              | Cash                                         |              | 240           |
+| 2080 Ashad 29| Cash                                         | 4,800        |               |
+|              | Accounts Receivable (Heera)                 |              | 4,800         |
+| 2080 Ashad 30| Interest Expense                             | 2,500        |               |
+|              | Cash                                         |              | 2,500         |
+
+## Ledger Accounts
+
+### Cash Account
+
+| Date         | Particulars                                   | Debit (Rs.) | Credit (Rs.) |
+|--------------|-----------------------------------------------|--------------|---------------|
+| 2080 Ashad 1 | Balance b/d                                   | 10,000       |               |
+| 2080 Ashad 4 | Rent Expense                                  |              | 2,000         |
+| 2080 Ashad 5 | Equipment                                     |              | 1,200         |
+| 2080 Ashad 10| Sales                                         | 8,600        |               |
+| 2080 Ashad 14| Advertisement Expense                         |              | 1,400         |
+| 2080 Ashad 17| Sales                                         | 11,200       |               |
+| 2080 Ashad 25| Wages Expense                                 |              | 1,500         |
+| 2080 Ashad 28| Electricity Expense                           |              | 240           |
+| 2080 Ashad 29| Accounts Receivable (Heera)                  | 4,800        |               |
+| 2080 Ashad 30| Interest Expense                              |              | 2,500         |
+|              | **Balance c/d**                              | **33,060**   | **8,840**     |
+
+### Sales Account
+
+| Date         | Particulars                                   | Debit (Rs.) | Credit (Rs.) |
+|--------------|-----------------------------------------------|--------------|---------------|
+| 2080 Ashad 10| Cash                                          |              | 8,600         |
+| 2080 Ashad 17| Cash                                          |              | 11,200        |
+| 2080 Ashad 23| Accounts Receivable (Heera)                  |              | 13,100        |
+|              | **Total**                                    |              | **32,900**    |
+
+### Purchases Account
+
+| Date         | Particulars                                   | Debit (Rs.) | Credit (Rs.) |
+|--------------|-----------------------------------------------|--------------|---------------|
+| 2080 Ashad 7 | Accounts Payable (Sunita)                    | 17,000       |               |
+
+### Accounts Receivable (Heera) Account
+
+| Date         | Particulars                                   | Debit (Rs.) | Credit (Rs.) |
+|--------------|-----------------------------------------------|--------------|---------------|
+| 2080 Ashad 23| Sales                                         | 13,100       |               |
+| 2080 Ashad 29| Cash                                          |              | 4,800         |
+
+### Interest Account
+
+| Date         | Particulars                                   | Debit (Rs.) | Credit (Rs.) |
+|--------------|-----------------------------------------------|--------------|---------------|
+| 2080 Ashad 30| Interest Expense                              | 2,500        |               |
