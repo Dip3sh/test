@@ -31,36 +31,42 @@ A Trial Balance is a statement that lists all the balances of the general ledger
 
 ## 12. Sales Book, Sales Account, and Creditors Account
 
-### Sales Book
+## 1. Sales Book
 
 | Date       | Details               | Invoice No. | Quantity | Rate   | Trade Discount | Total Amount |
 |------------|-----------------------|--------------|----------|--------|----------------|--------------|
-| 1st Chaitra| Gurung Store, Pokhara | 001          | 20       | 1500   | 10%            | 27,000       |
-|            |                       |              | 10       | 1000   | 10%            | 9,000        |
+| 1st Chaitra| Gurung Store, Pokhara | 001          | 20       | 1500   | 0%             | 30,000       |
+|            |                       |              | 10       | 1000   | 0%             | 10,000       |
+| **Total**  |                       |              |          |        |                | **40,000**   |
 | 10th Chaitra| Saru Brothers, Damauli| 002         | 15       | 1000   | 10%            | 13,500       |
 |            |                       |              | 10       | 800    | 10%            | 7,200        |
+| **Total**  |                       |              |          |        |                | **20,700**   |
 | 19th Chaitra| Shrestha Store, Gorkha| 003         | 13       | 900    | 0%             | 11,700       |
 | 25th Chaitra| Puri Store, Parbat   | 004          | 25       | 1500   | 5%             | 35,625       |
 |            |                       |              | 10       | 1000   | 0%             | 10,000       |
+| **Total**  |                       |              |          |        |                | **35,625**   |
 
-### Sales Account
-
-| Date       | Details               | Debit (Rs.) | Credit (Rs.) |
-|------------|-----------------------|--------------|---------------|
-| 1st Chaitra| Sales to Gurung Store |              | 36,000        |
-| 10th Chaitra| Sales to Saru Brothers|              | 20,700        |
-| 19th Chaitra| Sales to Shrestha Store|             | 11,700        |
-| 25th Chaitra| Sales to Puri Store   |              | 45,625        |
-| **Total**  |                       |              | **114,025**   |
-
-### Creditors Account
-
-| Date       | Details               | Debit (Rs.) | Credit (Rs.) |
-|------------|-----------------------|--------------|---------------|
-| 1st Chaitra| Purchase from Rohit   | 50,000       |               |
-|            | Payment to Rohit      |              | 48,500        |
-| **Total**  |                       | **50,000**   | **48,500**    |
+### **Overall Total Sales**: Rs. **108,025**
 
 ---
 
-**Note**: The amounts in the tables are calculated based
+## 2. Sales Account
+
+| Date       | Details               | Debit (Rs.) | Credit (Rs.) |
+|------------|-----------------------|--------------|---------------|
+| 1st Chaitra| Sales to Gurung Store |              | 40,000        |
+| 10th Chaitra| Sales to Saru Brothers|             | 20,700        |
+| 19th Chaitra| Sales to Shrestha Store|             | 11,700        |
+| 25th Chaitra| Sales to Puri Store   |              | 35,625        |
+| **Total**  |                       |              | **108,025**   |
+
+---
+
+
+---
+
+### Summary of Accounts
+- **Total Sales**: Rs. **108,025**
+- **Total Creditors (Saru Brothers)**: Rs. **20,700**
+
+---
