@@ -1,19 +1,67 @@
+| Price (PX) | Quantity Demanded (units) |
+|------------|---------------------------|
+| 100        | 100                       |
+| 80         | 200                       |
+| 60         | 300                       |
+| 40         | 400                       |
+| 20         | 500                       |
+| 10         | 600                       |
 
 
-|  X  |  Y  |  XY  |  X²  |  Y²  |
-|-----|-----|------|------|------|
-|  3  | 25  |  75  |  9   | 625  |
-|  4  | 32  | 128  | 16   | 1024 |
-|  4  | 26  | 104  | 16   | 676  |
-|  7  | 38  | 266  | 49   | 1444 |
-|  7  | 34  | 238  | 49   | 1156 |
-|  8  | 41  | 328  | 64   | 1681 |
-|  9  | 39  | 351  | 81   | 1521 |
-| 11  | 46  | 506  | 121  | 2116 |
-| 12  | 44  | 528  | 144  | 1936 |
-| 15  | 50  | 750  | 225  | 2500 |
-| **Total** |     | **2054** | **674** | **13409** |
+Step 1: Identify the Prices and Quantities
 
-![image](https://github.com/user-attachments/assets/45ad97fd-0a01-4376-8cce-d3b251e33bd9)
+We need to calculate the price elasticity of demand for the rise in price from Rs 60 to Rs 80.
 
-hint : suru ma tyo table banau  ani tyo formula use garera r ko value nikala hai
+- At P=60, Qd​=300
+
+- At P=80, Qd​=200
+
+Step 2: Calculate the Changes
+
+- Change in quantity demanded (ΔQ):
+ΔQ=Qd​(80)−Qd​(60)
+=200−300
+=−100
+
+- Change in price (ΔP):
+ΔP=P(80)−P(60)
+=80−60
+=20
+
+Step 3: Calculate the Average Quantity and Average Price
+
+- Average quantity (Qavg​):
+Qavg​=2Qd​(80)+Qd​(60)​
+=2200+300​
+=250
+
+- Average price (Pavg​):
+Pavg​=2P(80)+P(60)
+​=280+60
+​=70
+
+Step 4: Calculate the Price Elasticity of Demand (PED)
+
+Using the arc elasticity formula:
+PED=ΔP/Pavg​ΔQ/Qavg​​
+
+Substituting the values:
+PED=20/70−100/250​
+
+Calculating each part:
+
+- ΔQ/Qavg​=
+- −100/250
+- =−0.4
+
+- ΔP/Pavg​=20/70
+- ≈0.2857
+
+Now substituting back into the PED formula:
+PED=0.2857−0.4​
+
+≈−1.4
+
+Conclusion
+
+The price elasticity of demand when the price rises from Rs 60 to Rs 80 is approximately -1.4. This indicates that the demand is elastic, meaning that the quantity demanded is relatively responsive to price changes.
